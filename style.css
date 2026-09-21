@@ -125,6 +125,7 @@ body.dark .vocabulary-card .irish {
   .tense-row {
     flex-direction: row;
   }
+
   .tense-card {
     max-width: 340px;
   }
